@@ -43,6 +43,6 @@ class TextRecognition:
         )
         return txt
 
-tr = TextRecognition()
-tr.set_language('spa')
-print(tr.recognize_file('resources/single_line_text.jpg'))
+#tr = TextRecognition()
+#tr.set_language('spa')
+#print(tr.recognize_file('resources/single_line_text.jpg'))
